@@ -1,3 +1,4 @@
+package Praktikum5;
 import java.util.Scanner;
 
 public class pemilihanbilangan12{
